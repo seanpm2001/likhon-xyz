@@ -1,28 +1,4 @@
-/***********************************************************************\
-|*  __ _  __ _| |_ ___ _ __                                            *|
-|* / _` |/ _` | __/ _ \ '_ \                                           *|
-|*| (_| | (_| | ||  __/ | | |                                          *|
-|* \__, |\__,_|\__\___|_| |_|                                          *|
-|* |___/                                                               *|
-|*                                                                     *|
-|* Copyright (c) 2023-2024 Likhon Sheikh                               *|
-|* All rights reserved.                                                *|
-|*                                                                     *|
-|* @author: Likhon Sheikh                                              *|
-|* @version: 1.0                                                       *|
-|*                                                                     *|
-|* GitHub: https://github.com/likhon-xyz                               *|
-|* Telegram: https://t.me/Nectariferous | https://t.me/likhon-xyz      *|
-|* Website: https://likhon.xyz                                         *|
-|*                                                                     *|
-|* Disclaimer: All methods and materials are for educational purposes  *|
-|*             only.                                                   *|
-|*                                                                     *|
-|*                    Made with ♥ by Likhon Sheikh                     *|
-\***********************************************************************/
 
-
-# 🌟 Blockchain Mastery & Security Arsenal 🌟
 
 <div align="center">
 
