@@ -43,25 +43,24 @@
     50% { background-position: 100% 50%; }
     100% { background-position: 0% 50%; }
   }
-  
+
   table {
     animation: gradientAnimation 10s ease infinite;
     background-size: 200% 200%;
   }
-  
+
   img:hover {
     transform: scale(1.1);
   }
-  
+
   a:hover {
     color: #2ecc71 !important;
   }
-  
+
   .social-icon:hover {
     transform: translateY(-3px);
   }
 </style>
-
 
 <div align="center">
 
@@ -113,8 +112,6 @@
 </td>
 </tr>
 </table>
-
-</div>
 
 ## 🌈 Contribution Graph 🌈
 
